@@ -10,7 +10,7 @@ public class PrimeiroPrograma {
      //   int a = 5;
        // int b = 3;
         //System.out.println("hello World!" + (a + b));
-        Livro livro1 = new Livro("um nome qualquer", 987);
+        Livro livro1 = new Livro("um nome qualquer bom", 987);
         System.out.println(livro1);
     }
 }
